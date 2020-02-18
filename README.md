@@ -5,7 +5,7 @@ This repo is the clone of http://code.google.com/p/kaptcha/
 ### Maven
 ```
 <dependency>
-  <groupId>com.github.penggle</groupId>
+  <groupId>com.youkol.support.kaptcha</groupId>
   <artifactId>kaptcha</artifactId>
   <version>2.3.2</version>
 </dependency>
