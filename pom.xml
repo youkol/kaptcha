@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
   <version>2.3.2-SNAPSHOT</version>
   <name>kaptcha</name>
+  <description>kaptcha is a modern version of the simple captcha project.</description>
   <url>https://github.com/youkol/kaptcha</url>
 
   <licenses>
