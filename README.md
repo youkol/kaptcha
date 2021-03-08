@@ -11,6 +11,9 @@ This repo is the clone of http://code.google.com/p/kaptcha/
 </dependency>
 ```
 
+### Spring Boot Starter
+[kaptcha-spring-boot-starter](https://github.com/youkol/kaptcha-spring-boot-starter)
+
 Please see more information about this project.  
 http://code.google.com/p/kaptcha/  
 thanks.
